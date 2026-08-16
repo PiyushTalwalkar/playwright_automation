@@ -1,1 +1,1 @@
-This is new playwright repo
+The Microsoft Playwright GitHub repository describes the framework as a tool for reliable, cross-browser web testing and automation across Chromium, Firefox, and WebKit. It features native tooling, auto-waiting mechanisms, and supports languages including Node.js, Python, Java, and .NET. Read the full details at Microsoft Playwright GitHub.
